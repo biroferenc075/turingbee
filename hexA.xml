@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<cfg def="1">
+	<data sk="00" cmd="201"></data>
+	<data sk="01" cmd="310"></data>
+	<data sk="10" cmd="211"></data>
+	<data sk="11" cmd="300"></data>
+</cfg>
