@@ -1,4 +1,4 @@
-# turingbee
+# Turing Bee
 Turmite Simulation, but on a hexagonal grid in Java
 
 ![image](https://user-images.githubusercontent.com/100433458/220408043-6091cb51-9fbf-4290-b1a1-6d109f054a06.png)
